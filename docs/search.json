@@ -81,14 +81,14 @@
     "href": "src/vignettes/adodown-workflow.html",
     "title": "mypackage",
     "section": "",
-    "text": "The adodown workflow is intended to make it easier to set up and maintain Stata packages. Such that, more time can be spend writing code instead of modifying pkg-files etc.\nThe adodown workflow also allows you to write documentation in markdown format, which is a format that is quicker to learn that Stata’s smcl. This mean that you do not have access to all the features in smcl, but you can still write great documentation with the features you still have access to.\nAnother, and perhaps greater, advantage of writing the documentation in markdown files is that those files can automatically be rendered into web-based documentation. The part of adodown that renders the web-based documentation is written in R and uses Quarto. However, if you are hosting your adodown-styled Stata package on GitHub.com, then you do not need to know R or Quarto, as rendering the web-based documentation can be automated with GitHub actions."
+    "text": "The adodown workflow is intended to make it easier to set up and maintain Stata packages. Such that, more time can be spend writing code instead of modifying pkg-files etc.\nThe adodown workflow also allows you to write documentation in markdown format, which is a format that is quicker to learn that Stata’s smcl. This mean that you do not have access to all the features in smcl, but you can still write great documentation with the features you still have access to.\nAnother, and perhaps greater, advantage of writing the documentation in markdown files is that those files can automatically be rendered into web-based documentation. The part of adodown that renders the web-based documentation is written in R and uses Quarto. However, if you are hosting your adodown-styled Stata package on GitHub.com, then you do not need to know R or Quarto, as rendering the web-based documentation can be automated with GitHub actions.\nTEST UPDATE"
   },
   {
     "objectID": "articles/adodown-workflow.html",
     "href": "articles/adodown-workflow.html",
     "title": "adodown-workflow.md",
     "section": "",
-    "text": "The adodown workflow is intended to make it easier to set up and maintain Stata packages. Such that, more time can be spend writing code instead of modifying pkg-files etc.\nThe adodown workflow also allows you to write documentation in markdown format, which is a format that is quicker to learn that Stata’s smcl. This mean that you do not have access to all the features in smcl, but you can still write great documentation with the features you still have access to.\nAnother, and perhaps greater, advantage of writing the documentation in markdown files is that those files can automatically be rendered into web-based documentation. The part of adodown that renders the web-based documentation is written in R and uses Quarto. However, if you are hosting your adodown-styled Stata package on GitHub.com, then you do not need to know R or Quarto, as rendering the web-based documentation can be automated with GitHub actions."
+    "text": "The adodown workflow is intended to make it easier to set up and maintain Stata packages. Such that, more time can be spend writing code instead of modifying pkg-files etc.\nThe adodown workflow also allows you to write documentation in markdown format, which is a format that is quicker to learn that Stata’s smcl. This mean that you do not have access to all the features in smcl, but you can still write great documentation with the features you still have access to.\nAnother, and perhaps greater, advantage of writing the documentation in markdown files is that those files can automatically be rendered into web-based documentation. The part of adodown that renders the web-based documentation is written in R and uses Quarto. However, if you are hosting your adodown-styled Stata package on GitHub.com, then you do not need to know R or Quarto, as rendering the web-based documentation can be automated with GitHub actions.\nTEST UPDATE"
   },
   {
     "objectID": "reference/ad_setup.html",
@@ -102,7 +102,7 @@
     "href": "reference/index.html",
     "title": "Function reference",
     "section": "",
-    "text": "Functions\nDescription\n\n\n\n\nad_command\nCreates or removes commands in the adodown workflow.\n\n\nad_setup\nSets up the initial package folder in the adodown workflow.\n\n\nad_sthlp\nRenders sthlp-files from mdhlp-files in the adodown workflow."
+    "text": "Functions\nDescription\n\n\n\n\nad_command\nCreates or removes commands in the adodown workflow.\n\n\nad_setup\nSets up the initial package folder in the adodown workflow. Kristoffer\n\n\nad_sthlp\nRenders sthlp-files from mdhlp-files in the adodown workflow."
   },
   {
     "objectID": "reference/ad_command.html",
