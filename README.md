@@ -1,3 +1,3 @@
 # adodown-stata
 
-test build
+test build 1
