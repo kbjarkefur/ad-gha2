@@ -1,6 +1,6 @@
 # Title
 
-__ad_command__ - Creates or removes commands in the adodown workflow.
+__ad_command__ - Cat dodg.
 
 # Syntax
 
