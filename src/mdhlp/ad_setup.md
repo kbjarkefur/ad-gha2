@@ -1,6 +1,6 @@
 # Title
 
-__ad_setup__ - Sets up the initial package folder in the adodown workflow. Kristoffer
+__ad_setup__ - Sets up the initi. Kristoffer
 
 # Syntax
 
