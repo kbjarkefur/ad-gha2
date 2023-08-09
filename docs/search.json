@@ -102,7 +102,7 @@
     "href": "reference/index.html",
     "title": "Function reference",
     "section": "",
-    "text": "Functions\nDescription\n\n\n\n\nad_command\nCreates or removes commands in the adodown workflow.\n\n\nad_setup\nSets up the initi. Kristoffer\n\n\nad_sthlp\nRenders sthlp-files from mdhlp-files in the adodown workflow."
+    "text": "Functions\nDescription\n\n\n\n\nad_command\nCat dodg.\n\n\nad_setup\nSets up the initi. Kristoffer\n\n\nad_sthlp\nRenders sthlp-files from mdhlp-files in the adodown workflow."
   },
   {
     "objectID": "reference/ad_command.html",
